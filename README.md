@@ -16,3 +16,10 @@ Create a simple yet elegant web application which will be renderable on the most
 
 The details of the vote cast by the voter are encoded and get transferred as a new unverified block or transaction into the blockchain. This newly generated encoded block containing the voter's details and the candidate the voter has voted for is sent for authentication to a list of predefined smart contracts and a Miner of the Blockchain for checking the validity and authenticity of the vote. Upon being authenticated the new transaction block is added to a decentralized public ledger and copied onto all the systems which are a part of the network. The distribution enables maintaining uniformity of data across all the systems in the network, which ultimately helps prevent manipulating and changing voting transactions from taking place as a copy of untampered data has been saved on every system in the network. Upon the completion of the voting process, these transaction details are checked once again and then sent for cross verification of counting of the votes for all the candidates from every district across the country, following which the election results are declared. 
 up, compared with that of other candidates of that region,  and the winner can be declared for the elections.
+
+# Technology Stack
+
+Python
+Flask
+HTML/CSS
+SQL
