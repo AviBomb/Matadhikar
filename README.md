@@ -19,7 +19,7 @@ up, compared with that of other candidates of that region,  and the winner can b
 
 # Technology Stack
 
-Python
-Flask
-HTML/CSS
-SQL
+* Python
+* Flask
+* HTML/CSS
+* SQL
