@@ -23,3 +23,5 @@ up, compared with that of other candidates of that region,  and the winner can b
 * Flask
 * HTML/CSS
 * SQL
+* GitHub
+* Microsoft Azure
