@@ -25,3 +25,9 @@ up, compared with that of other candidates of that region,  and the winner can b
 * SQL
 * GitHub
 * Microsoft Azure
+
+# Team Members
+
+* Avi
+* Pragya
+* Prerana
