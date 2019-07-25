@@ -1,3 +1,5 @@
+# CodeFunDo++                  
+Team Name : Mind Optimizers
 # Problem Statement:
 
 Develop an application where Indian citizens with valid voter ID cards, provided by the government, can vote during the elections from across the globe. The votes thus collected, can then be counted for declaration of the results of the elections.
@@ -27,7 +29,6 @@ up, compared with that of other candidates of that region,  and the winner can b
 * Microsoft Azure
 
 # Team Members
-
 * Avi
 * Pragya
 * Prerana
