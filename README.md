@@ -1,4 +1,4 @@
-# CodeFunDo++                  
+# Matadhikar
 Team Name : Mind Optimizers
 # Problem Statement:
 
