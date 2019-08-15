@@ -20,7 +20,7 @@ except:
 
 db=client.get_database('codefundo')
 records=db.voterIds #collection or table
-print(records.count_documents({}))
+# print(records.count_documents({}))
 
 @app.route('/api/v1/login', methods =['GET','POST','DELETE','PUT'])
 @cross_origin(supports_credentials=True)
