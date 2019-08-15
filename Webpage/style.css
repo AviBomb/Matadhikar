@@ -3,13 +3,13 @@ body{
     padding: 0;
     background: url(pic30.jpg);
     background-size: cover;
-    background-position: center;
+    /*background-position: center;*/
     font-family: sans-serif;
 }
 
 .loginbox{
     width: 320px;
-    height: 420px;
+    height: 500px;
     background: #000;
     color: #fff;
     top: 50%;
