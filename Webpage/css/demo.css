@@ -1,24 +1,35 @@
 @import url('https://fonts.googleapis.com/css?family=Londrina+Outline');
 body {
     background: #060c21;
-    font-size: 8px;
+    font-size: 10px;
 }
 body
 {
-    margin: 0;
-    padding:0;
+    margin: 20px;
+    padding: 20px;
     display: flex;
-    justify-content: center;
-    align-items: center;
+    flex-wrap: wrap;
+    /*justify-content: center;*/
+    /*align-items: center;*/
     min-height: 100vh;
     background: #060c21;
     font-family: 'Poppins',sans-serif;
 }
+
+.avatar{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: absolute;
+    top: -50px;
+    left: calc(50% - 50px);
+}
+
 .neon {
     font-family: 'Londrina Outline', cursive;
     text-align: center;
     text-transform: uppercase;
-    font-size: 6em;
+    font-size: 2em;
     color: #fff;
     letter-spacing: 0.15em;
 }
@@ -29,9 +40,7 @@ body
         0 0 20px #ff7bac,
         0 0 40px #ff7bac,
         0 0 80px #ff7bac,
-        0 0 90px #ff7bac,
-        0 0 100px #ff7bac,
-        0 0 150px #ff7bac;
+        0 0 90px #ff7bac;
 }
 .blue {
     text-shadow:
@@ -40,9 +49,7 @@ body
         0 0 20px #7bacff,
         0 0 40px #7bacff,
         0 0 80px #7bacff,
-        0 0 90px #7bacff,
-        0 0 100px #7bacff,
-        0 0 150px #7bacff;
+        0 0 90px #7bacff;
 }
 .green {
     text-shadow:
@@ -51,34 +58,24 @@ body
         0 0 20px #7bffce,
         0 0 40px #7bffce,
         0 0 80px #7bffce,
-        0 0 90px #7bffce,
-        0 0 100px #7bffce,
-        0 0 150px #7bffce;
+        0 0 90px #7bffce;
 }
-a:link {
-  text-decoration: none;
-  color: #fff;
-}
-
-a:visited {
-  text-decoration: none;
-  color: #fff;
-}
-
-a:hover {
-  text-decoration: none;
-  color: #fff; 
-}
-
-a:active {
-  text-decoration: none;
-  color: #fff;
+.orange {
+    text-shadow:
+        0 0 5px #ff9933,
+        0 0 10px #ff9933,
+        0 0 20px #ff9933,
+        0 0 40px #ff9933,
+        0 0 80px #ff9933,
+        0 0 90px #ff9933;
 }
 .box
 {
+    margin: 10px;
+    padding: 10px;
     position: relative;
-    width: 300px;
-    height: 400px;
+    width: 200px;
+    height: 300px;
     display: flex;
     justify-content: center;
     align-items: center;
