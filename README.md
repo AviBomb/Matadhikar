@@ -27,9 +27,4 @@ Initially, Both Permissioned(Example-Hyperledger Fabric,Corda) and Permissionles
 * HTML/CSS
 * SQL
 * GitHub
-* Microsoft Azure
-
-# Team Members
-* Avi
-* Pragya
-* Prerana
+* Ethereum
